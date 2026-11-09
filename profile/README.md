@@ -42,6 +42,8 @@ A proposta acadêmica é demonstrar a organização de um sistema distribuído e
 
 ## 📂 Repositórios
 
+[Ver todos os repositórios da organização](https://github.com/orgs/FCG-FIAP-Cloud-Games/repositories).
+
 | Repositório | Responsabilidade | Documentação técnica |
 |---|---|---|
 | [FCG.UsersAPI](https://github.com/FCG-FIAP-Cloud-Games/FCG.UsersAPI) | Contas, perfis, sessões, emissão de JWT e evento de cadastro. | [README do Users](https://github.com/FCG-FIAP-Cloud-Games/FCG.UsersAPI/blob/main/README.md) |
@@ -49,7 +51,6 @@ A proposta acadêmica é demonstrar a organização de um sistema distribuído e
 | [FCG.PaymentsAPI](https://github.com/FCG-FIAP-Cloud-Games/FCG.PaymentsAPI) | Pagamentos simulados, tentativas de processamento e publicação do resultado. | [README do Payments](https://github.com/FCG-FIAP-Cloud-Games/FCG.PaymentsAPI/blob/main/README.md) |
 | [FCG.NotificationsAPI](https://github.com/FCG-FIAP-Cloud-Games/FCG.NotificationsAPI) | Consumo de eventos, projeção de e-mails dos usuários e envio de notificações. | [README do Notifications](https://github.com/FCG-FIAP-Cloud-Games/FCG.NotificationsAPI/blob/main/README.md) |
 | [FCG-FIAP-Repo-Infra](https://github.com/FCG-FIAP-Cloud-Games/FCG-FIAP-Repo-Infra) | Ambiente integrado, dependências e implantação com Docker Compose e Kubernetes. | [README da infraestrutura](https://github.com/FCG-FIAP-Cloud-Games/FCG-FIAP-Repo-Infra/blob/main/README.md) |
-| [.github](https://github.com/FCG-FIAP-Cloud-Games/.github) | Apresentação da organização e visão geral da solução. | [README da organização](https://github.com/FCG-FIAP-Cloud-Games/.github/blob/main/profile/README.md) |
 
 > A branch `main` é a referência adotada pelo grupo para o projeto. Os links de documentação técnica apontam para essa branch. Versões de imagens, configurações e procedimentos de implantação pertencem à documentação de cada repositório.
 
